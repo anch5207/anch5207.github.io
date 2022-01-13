@@ -1,3 +1,3 @@
 # anch5207.githubpages.io
 
-bing bong
+This is my first repository. Why is Github so confusing?

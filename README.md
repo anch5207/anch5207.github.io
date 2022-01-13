@@ -1,3 +1,3 @@
 # anch5207.githubpages.io
 
-This is my first repository. Why is Github so confusing?
+I am Anav and this is going to be my first site. Why is Github so confusing?

@@ -90,6 +90,11 @@
     color: #ffdee5
   }
 
+  a:hover
+  {
+    color: #00a0ff;
+  }
+
   .box
   {
     display: grid;

@@ -65,7 +65,10 @@ console.log('Problem 5', employees)
 
 //problem 6
 const peopleWorkingFromHome = ['Anna', 'Sam'];
-
+for (const id in employees){
+  employees[id].wfh = peopleWorkingFromHome.includes(employees[id].firstName);
+}
+console.log('Problem 6', employees)
 
 
 

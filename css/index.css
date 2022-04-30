@@ -100,7 +100,7 @@
     margin-left: 40px;
     margin-right: 40px;
     max-width: 650px;
-    animation: myanimation 120s;
+    animation: myanimation 130s;
   }
   
   @keyframes myanimation

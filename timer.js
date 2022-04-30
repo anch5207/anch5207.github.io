@@ -1,9 +1,9 @@
 
 let startingMinutes = prompt("How many minutes do you want your timer to be?");
 
-if (startingMinutes == null)
+if (startingMinutes === null)
 {
-  startingMinutes = 0;
+  startingMinutes = 2;
 }
 
 let time = startingMinutes * 60;

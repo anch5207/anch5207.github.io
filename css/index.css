@@ -66,6 +66,28 @@
     max-width: 650px
   }
   
+  .cancel
+  {
+    font-size: 18px;
+    background-color: #D7B4F3;
+    position: relative;
+    left: 43%;
+    height: 30px;
+    border-radius: 4px;
+    border: 3px solid #D7B4F3;
+  }
+  
+  .cancel:hover
+  {
+    font-size: 18px;
+    background-color: #ffdee5;
+    position: relative;
+    left: 43%;
+    height: 30px;
+    border-radius: 4px;
+    border: 3px solid #D7B4F3;
+  }
+  
   .countdown
   {
     font-size: 50px;
@@ -78,7 +100,7 @@
     margin-left: 40px;
     margin-right: 40px;
     max-width: 650px;
-    animation: myanimation 300s;
+    animation: myanimation 120s;
   }
   
   @keyframes myanimation
@@ -156,6 +178,28 @@
     margin-left: 40px;
     margin-right: 40px;
     max-width: 650px;
+  }
+  
+  .cancel
+  {
+    font-size: 18px;
+    background-color: #D7B4F3;
+    position: relative;
+    left: 43%;
+    height: 30px;
+    border-radius: 4px;
+    border: 3px solid #D7B4F3;
+  }
+  
+  .cancel:hover
+  {
+    font-size: 18px;
+    background-color: #ffdee5;
+    position: relative;
+    left: 43%;
+    height: 30px;
+    border-radius: 4px;
+    border: 3px solid #D7B4F3;
   }
   
   .countdown
